@@ -16,7 +16,7 @@ http {
     root /app/www;
     index index.html;
 
-    autoindex on;
-    autoindex_format jsonp;
+    autoindex <%= ENV.fetch("NGINX_AUTOINDEX", "on") %>;
+    autoindex_format <%= ENV.fetch("NGINX_AUTOINDEX_FORMAT", "jsonp") %>;
   }
 }
