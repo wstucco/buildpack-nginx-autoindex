@@ -21,5 +21,4 @@ All static files that you want to serve should be in the root directory of your 
 
 [Massimo Ronca](http://twitter.com/wstucco/)
 
-[`buildpack-nginx`](https://github.com/florianheinemann/buildpack-nginx) was created by   
-[Florian Heinemann](http://twitter.com/TheSumOfAll/)
+[`buildpack-nginx`](https://github.com/florianheinemann/buildpack-nginx) was created by [Florian Heinemann](http://twitter.com/TheSumOfAll/)
