@@ -1,4 +1,4 @@
-# NGINX Buildpack for Dokku - Hosting static pages
+# NGINX Buildpack for Dokku - Hosting static pages with autoindex enabled
 This buildpack has been successfully run on Digital Ocean instances of Ubuntu 14.02 (Status: Apr 2015). It might also work with different configurations.
 
 ## Purpose
